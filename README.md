@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Frontend Topics
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/iamsaqib24/) or [Twitter](https://twitter.com/iamsaqib24)
+- [![Peerlist](https://github-readme-badge.peerlist.io/api/iamsaqib24?style=social)](https://peerlist.io/iamsaqib24)
 
 <!---
 iamsaqib24/iamsaqib24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
